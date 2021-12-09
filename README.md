@@ -5,6 +5,7 @@ Very basic example for a nested schema in mongodb for a REST api, using mongoose
 ## Install
 * Clone
 * npm install
+* node index.js or nodemon index.js
 
 ## Init database with some data
 * POST /api/notes/init
